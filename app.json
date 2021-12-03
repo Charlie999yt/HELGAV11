@@ -1,9 +1,9 @@
 {
-  "name": "WhatsApp Helga Ilham",
+  "name": "WhatsApp Bot",
     "logo": "https://f.top4top.io/p_2149d3qg60.jpg",
-    "description": "Subscribe Helga Zex's",
+    "description": "charlie 999",
   "keywords": ["nodejs", "bot", "whatsapp bot"]
-    "repository": "https://github.com/HelgaIlham/HELGAV11",
+    "repository": "https://github.com/Charlie999yt/HELGAV11",
   "buildpacks": [
     {
       "url": "heroku/nodejs"
